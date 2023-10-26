@@ -1,0 +1,56 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "explorer.compactFolders": false,
+  "workbench.iconTheme": "symbols",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmDragAndDrop": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "html.format.enable": false,
+  "javascript.format.enable": false,
+  "typescript.format.enable": false,
+  "css.format.enable": false,
+  "less.format.enable": false,
+  "scss.format.enable": false,
+  "editor.formatOnSave": true,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.autoSave": "afterDelay",
+  "editor.maxTokenizationLineLength": 200000000000000,
+  "editor.largeFileOptimizations": false,
+  "symbols.hidesExplorerArrows": false,
+  "symbols.files.associations": {
+    "*.service.ts": "code-yellow",
+    "*.spec.ts": "ts-test",
+    "*.component.ts": "ts"
+  },
+  "symbols.folders.associations": {
+    "services": "folder-yellow",
+    "service": "folder-yellow",
+    "core": "folder-blue",
+    "modulos": "folder-red",
+    "modules": "folder-red",
+    "shared": "folder-purple",
+    "componentes": "folder-green-outline",
+    "components": "folder-green-outline",
+    ".angular": "folder-red",
+    "interfaces": "folder-sky-outline",
+    "constantes": "folder-gray-outline",
+    "modelos": "folder-blue-outline",
+    "paginas": "folder-red-outline",
+    "base": "folder-gray-outline",
+    "environments": "folder-sky",
+    "imagens": "folder-assets",
+    "interceptors": "folder-yellow-outline"
+  },
+  "material-icon-theme.folders.theme": "specific",
+  "workbench.colorTheme": "Min Dark",
+  "workbench.productIconTheme": "fluent-icons"
+}
